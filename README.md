@@ -1,9 +1,9 @@
 ----
-# Welcome to SBR! #
+# Bem-vindo ao SBR! #
 
 ----
-## What is SBR? ##
-SBR is a cryptocurrency to make the world a better place.
+## O que é SBR? ##
+SBR é uma criptomoeda para tornar o mundo um lugar melhor.
 
 ----
 ## Get it! ##
@@ -17,18 +17,18 @@ SBR is a cryptocurrency to make the world a better place.
 ----
 ## Run it! ##
 
-  - click on the SBR icon, or start from the command line:
+  - clique no ícone SBR ou inicie na linha de comando:
   - Unix: `./start.sh`
   - Window: `run.bat`
 
-  - wait for the JavaFX wallet window to open
+  - aguarde a janela da carteira JavaFX abrir
   - on platforms without JavaFX, open http://localhost:36876/ in a browser
 
 ----
 ## Compile it! ##
 
-  - if necessary with: `./compile.sh`
-  - you need jdk-8 as well
+  - se necessário compile: `./compile.sh`
+  - você precisa do jdk-8 também
 
 ----
 ## Troubleshooting the NRS (SBR Reference Software) ##
@@ -51,5 +51,5 @@ SBR is a cryptocurrency to make the world a better place.
     - USERS-GUIDE.md
     - DEVELOPERS-GUIDE.md
     - OPERATORS-GUIDE.md
-    - In the doc folder
+    -Na pasta doc
 
